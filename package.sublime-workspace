@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mess",
+				"messageArea"
+			],
+			[
+				"user",
+				"userForm"
+			],
+			[
+				"messa",
+				"messageForm"
+			],
+			[
+				"oFFICE",
+				"Office_Location"
+			],
+			[
+				"Office",
+				"Office_Location"
+			],
+			[
+				"OFFICE",
+				"Office_ID"
+			],
+			[
+				"ite",
+				"Item_ID"
+			],
+			[
+				"I",
+				"Items_ID"
+			],
+			[
+				"pERSON",
+				"Person_ID"
+			],
+			[
+				"C",
+				"CONSTRAINT"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3359,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 1117,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Humza/OneDrive/Documents/iochat"
+	],
+	"file_history":
+	[
+		"/C/Users/Humza/Desktop/agiliav2/home.php",
+		"/C/Users/Humza/OneDrive/Documents/iochat/server.js",
+		"/C/Users/Humza/OneDrive/Desktop/index.html",
+		"/C/Users/Humza/Desktop/agiliav2/public/js/jquery-validation.js",
+		"/C/Users/Humza/Desktop/agiliav1/home.php",
+		"/C/Users/Humza/OneDrive/Documents/iochat/index.html",
+		"/C/Users/Humza/OneDrive/Documents/iochat/package.json",
+		"/C/Users/Humza/OneDrive/Documents/iochat/server,js",
+		"/C/Users/Humza/OneDrive/Desktop/myfirst.js",
+		"/C/Users/Humza/Desktop/agiliav2/insert.php",
+		"/C/Users/Humza/Desktop/agiliav1/insert.php",
+		"/C/Users/Humza/OneDrive/Desktop/tables.sql",
+		"/C/Users/Humza/Desktop/agilia/insert.php",
+		"/C/Users/Humza/Desktop/agilia/public/css/indexform.css",
+		"/C/Users/Humza/Desktop/agilia/public/js/jquery-validation.js",
+		"/C/Users/Humza/Desktop/agilia/home.php",
+		"/C/Users/Humza/Desktop/agilia/public/css/business-casual.css",
+		"/C/Users/Humza/Desktop/agilia/public/css/custom.css",
+		"/C/Users/Humza/Desktop/agilia/public/css/bootstrap.min.css",
+		"/C/Users/Humza/Desktop/agilia/public/css/bootstrap.css",
+		"/C/Users/Humza/OneDrive/Desktop/display db records.php",
+		"/C/Users/Humza/Desktop/cruise/index.php",
+		"/C/Users/Humza/OneDrive/Desktop/info.php",
+		"/C/Users/Humza/Desktop/Website/insert.php",
+		"/C/Users/Humza/Desktop/Website/2registration.php",
+		"/C/Users/Humza/Desktop/Website/application/database.php",
+		"/C/Users/Humza/Desktop/Website/application/config.php",
+		"/C/Users/Humza/Desktop/index.php"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3000",
+			"updateUsernames",
+			"textarea",
+			"{",
+			"updateUsernames",
+			"chat",
+			"messageArea",
+			"connections",
+			"background-im",
+			"background",
+			"background-",
+			" value=\"Female\"",
+			"value=\"Male\"",
+			"value=\"Female"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 52.0
+	},
+	"input":
+	{
+		"height": 76.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 96.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 100.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
