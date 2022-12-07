@@ -9,7 +9,7 @@
   "author": "Humza",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "express": "*",
     "mongodb": "^3.0.2",
     "mongoose": "^5.0.4",
